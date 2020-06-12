@@ -23,4 +23,4 @@ class Dinner{
     this.dessert=dessert;
   }
 }
-let dinner=new Dinner();
+let dinner=new Dinner('cheesecake');
