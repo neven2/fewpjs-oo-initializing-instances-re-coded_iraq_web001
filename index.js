@@ -23,3 +23,4 @@ class Dinner{
     this.dessert=dessert;
   }
 }
+let dinner=new Dinner();
