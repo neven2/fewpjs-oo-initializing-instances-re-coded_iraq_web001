@@ -1,7 +1,5 @@
 // Write your code here
-class Dog {
-  
-}
+
 class Breakfast{
   constructor(food,drink){
     this.food = food;
@@ -9,6 +7,6 @@ class Breakfast{
   }
 }
 
-class lunch{
+class Lunch{
   
 }
