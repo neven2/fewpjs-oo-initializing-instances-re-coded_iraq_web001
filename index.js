@@ -6,10 +6,11 @@ class Breakfast{
     this.drink=drink;
   }
 }
- salad, a soup, and a drink.
+ 
 class Lunch{
     constructor(salad,soup,drink){
-    this.food = food;
+    this.salad = salad;
+    this.soup=soup;
     this.drink=drink;
   }
 }
